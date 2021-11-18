@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "729003817201",
+    "firebase_url": "https://cibermiguelin-b7cb5-default-rtdb.firebaseio.com",
+    "project_id": "cibermiguelin-b7cb5",
+    "storage_bucket": "cibermiguelin-b7cb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729003817201:android:d37f7b93188b8dd7825150",
+        "android_client_info": {
+          "package_name": "com.example.cibermiguelin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729003817201-f2ki0q9g0je53ujo5q944d8tekgg66s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7aULZBbM44mOGEsdt-iVReMpTK0U6gkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729003817201-f2ki0q9g0je53ujo5q944d8tekgg66s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729003817201:android:0e78895020fcb976825150",
+        "android_client_info": {
+          "package_name": "com.example.mikelciber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729003817201-f2ki0q9g0je53ujo5q944d8tekgg66s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7aULZBbM44mOGEsdt-iVReMpTK0U6gkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729003817201-f2ki0q9g0je53ujo5q944d8tekgg66s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
